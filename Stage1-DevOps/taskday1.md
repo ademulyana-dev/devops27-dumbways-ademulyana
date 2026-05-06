@@ -22,6 +22,40 @@ selanjutnya mengatur memory dan cpu berserta disk size
 setelah melakukan konfigurasi hasilnya akan seperti ini jika mau di jalankan klik run 
 ![alt text](image-6.png)
 
+selanjutnya saat pertama kali start klik aja try or install ubuntu server 
+![alt text](image-7.png)
+
+selanjutnya nanti akan di minta pake bahasa apa , kalau aku pilih aja bahasa inggris
+step selanjutnya di minta update namun saya memilih opsi tidak update
+step selanjutnya konfigurasi keybord namun saya tidak melakukan konfigurasi keybord 
+selanjutnya ada di minta type instalasi saya milih yang ubuntu server
+
+selanjutnya melakukan konfigurasi network sekaligus mebnjawab no 3
+3. Gunakan IP Address xxx.xxx.xxx.208 untuk server VM kalian!
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+selanjutnya untuk proxy skip aja 
+untuk mirror configuration juga saat ini skip aja
+
+nah untuk selanjutnya melakukan storage configuration 
+
+saya atur menjadi seperti ini 7GB DAN UNTUK swap nya 2GB+
+![alt text](image-10.png)
+
+SELANJUTNYA MELAKUKAN KONFIGURASI PROFILE 
+![alt text](image-11.png)
+
+nanti di suruh pilih ubuntu pro skip aja
+nanti di suruh install ssh skip aja dulu
+nanti kalau ada fitur server skip dulu aja 
+
+lalu tunggu sampai prosesnya selesai
+
+
+
 
 
 
