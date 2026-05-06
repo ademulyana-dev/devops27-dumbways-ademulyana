@@ -52,8 +52,17 @@ nanti di suruh pilih ubuntu pro skip aja
 nanti di suruh install ssh skip aja dulu
 nanti kalau ada fitur server skip dulu aja 
 
-lalu tunggu sampai prosesnya selesai
+lalu tunggu sampai prosesnya selesai kalau udah selesai klik reboot 
+![alt text](image-12.png)
 
+kalau sudah nanti tinggal login aja seperti ini hasilnya kalau udah login 
+![alt text](image-13.png)
+
+4. Pastikan Ubuntu Server kalian ada jaringan dengan test menggunakan command ping 8.8.8.8 / ping google.com
+
+hasil saya melakukan ping ke 8.8.8.8 
+
+![alt text](image-15.png)
 
 
 
