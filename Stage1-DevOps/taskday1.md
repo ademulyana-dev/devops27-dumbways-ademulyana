@@ -10,3 +10,19 @@ ini tampilan virtualbox
 ![alt text](image.png)
 
 
+selanjutnya download file iso server linuxnya saya sudah download filenya jika sudah di download ini tampilan filenya 
+![alt text](image-1.png)
+
+masuk ke virtualbox new dan pilih file iso linuxnya 
+![alt text](image-3.png)
+
+selanjutnya mengatur memory dan cpu berserta disk size 
+![alt text](image-5.png)
+
+setelah melakukan konfigurasi hasilnya akan seperti ini jika mau di jalankan klik run 
+![alt text](image-6.png)
+
+
+
+
+
