@@ -718,7 +718,6 @@ Aplikasi berhasil diakses menggunakan custom domain:
 
 **Aplikasi yang berhasil di-deploy:**
 - ✅ Frontend dengan custom domain
-- ✅ Backend dengan custom domain
 - ✅ Reverse proxy berfungsi dengan baik
 
 ---
@@ -757,29 +756,3 @@ Aplikasi berhasil diakses menggunakan custom domain:
 - ✅ Custom domain configuration
 - ✅ Multi-application hosting
 
----
-
-## Next Steps
-
-**Areas for Further Learning:**
-1. Docker & Containerization
-2. CI/CD Pipeline
-3. Kubernetes & Orchestration
-4. Monitoring & Logging (Prometheus, Grafana)
-5. Infrastructure as Code (Terraform, Ansible)
-6. Cloud Platforms (AWS, GCP, Azure)
-
----
-
-## Resources & References
-
-- Ubuntu Server Documentation
-- Nginx Official Docs
-- Git Documentation
-- Linux Command Line Resources
-
----
-
-**End of Presentation**
-
-*Prepared for DevOps Training Program*
