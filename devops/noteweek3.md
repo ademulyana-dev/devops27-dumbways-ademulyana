@@ -79,10 +79,11 @@ Membuat dashboard Grafana untuk monitoring resource server:
 - Container Status table
 - 24-hour trend graph
 
-![Screenshot 10](imageweek3/dashbord_grafana.png)
+![Screenshot 10](imageweek3/dashboard_grafana.png)
 
 ---
 
 ## 11. Monitoring Specific Container
-Setup monitoring khusus untuk container aplikasi frontend dengan metrics tracking.
-![Screenshot 10](imageweek3/dashbord_grafana.png)
+Setup monitoring khusus untuk container aplikasi frontend dengan metrics tracking, termasuk status container, uptime, dan resource usage secara spesifik.
+
+![Screenshot 11](imageweek3/dashboard_grafana.png)
