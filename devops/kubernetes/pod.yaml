@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: testing-pvc
+  namespace: default
+spec:
+  containers:
+    - name: testing-pvc
+      image: nginx:alpine
+      ports:
+        - containerPort: 80
+          name: http
+      volumeMounts:
+        - name: test
+          mountPath: /etc/nginx
+  volumes:
+    - name: test
+      persistentVolumeClaim:
+        claimName: testing
+  restartPolicy: Always
